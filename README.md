@@ -16,8 +16,8 @@ It wasn't an easy or a short step to success, nor was it direct route but rather
 
 ![Olivetti 386](/olivetti.jpg)
 
-I started with QBasic in 1994, worked my way upto Turbo C++ by 1998, after completing high school in 2002, I started on my Electronics Engineering degree at IIT Kharagpur, and onto my career in Computer Vision and Machine Learning. I have built a lot of interesting projects and launched many products over the years, but somewhere in the back of my mind is the longing to go back to my roots and finish what started it all.
+I began with QBasic in 1994, worked my way upto Turbo C++ by 1998, after completing high school in 2002, I continued on my Electronics Engineering degree at IIT Kharagpur, and onto my career in Computer Vision and Machine Learning. I have built a lot of interesting projects and launched many products over the years, but somewhere in the back of my mind is the longing to go back to my roots and finish what kickstarted it all.
 
-Therefore, as a tribute to the inspiration I recieved from this game, I have started work to recreate the game albeit with much more modern twist using C++ 17 and OpenGL 4.5, and coding on an Intel i5 64bit 6 Core 3.6GHz processor, with 32GB of RAM, 8GB graphics card, and a 750GB SSD.
+Therefore, as a tribute to the inspiration recieved from this game, I have begun work to recreate the game albeit with much more modern twist using C++ 17 and OpenGL 4.5. And as I code away on my Intel i5 64bit 6 Core 3.6GHz processor, with 32GB of RAM, 8GB graphics card, and a 750GB SSD, it sure feels like having come a long way.
 
-Keep checking this space for more updates...
+Stay tuned for more updates...
